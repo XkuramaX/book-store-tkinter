@@ -1,0 +1,2 @@
+This as a Python database app built for libraries so that they can keep the tracks of the books that they have. This app is built with the tkinter library.
+To run this app you need to execute the 'frontend.py'
